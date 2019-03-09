@@ -1,5 +1,4 @@
-# CAPSTONE PROJECT FOR THE MASTER OF SCIENCE IN BUSINESS ANALYTICS NYU
-# UNIVERSITY
+# CAPSTONE PROJECT FOR THE MASTER OF SCIENCE IN BUSINESS ANALYTICS NYU UNIVERSITY
 
 The project’s scope is focused on the development of a tool that monitors and
  assesses the efficiency of coders while editing code. The project has been 
